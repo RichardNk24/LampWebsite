@@ -5,7 +5,6 @@
     font-family: 'poppins',  sans-serif;
     box-sizing: border-box;
 }
-
 .hero{
     background: #1d2026;
     min-height: 100vh;
@@ -129,7 +128,6 @@ button span{
     margin: 0 20px;
     border-radius: 2px;
 }
-
 .control .line span{
     width: 50%;
     height: 8px;
